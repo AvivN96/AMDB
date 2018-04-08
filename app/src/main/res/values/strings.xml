@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AMDB</string>
+    <string name="movie_s_name">Movie\'s name</string>
+    <string name="movie_s_description">Movie\'s description</string>
+    <string name="movie_s_image_url">Movie\'s image URL</string>
+    <string name="show">show</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="movieCreated">Movie Created</string>
+    <string name="movie_list_is_empty">movie list is empty</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="do_you_want_to_edit_the_movie_or_to_delete_it">Do you want to edit the movie or to delete it?</string>
+    <string name="go">GO</string>
+    <string name="search">search</string>
+    <string name="add_from_internet">Add from internet</string>
+    <string name="add_manually">add manually</string>
+    <string name="exit">Exit</string>
+    <string name="delete_all">Delete all</string>
+    <string name="gotopage">Go To Page</string>
+    <string name="addMovie">Add Movie</string>
+    <string name="setting">Setting</string>
+</resources>
